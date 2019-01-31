@@ -1,0 +1,23 @@
+{
+  "name": "sqlhelperjs",
+  "version": "0.0.0",
+  "description": "A tool for helping me generate sql.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/floh1695/SqlHelperJs.git"
+  },
+  "keywords": [
+    "sql",
+    "generate"
+  ],
+  "author": "Charles Bayley",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/floh1695/SqlHelperJs/issues"
+  },
+  "homepage": "https://github.com/floh1695/SqlHelperJs#readme"
+}
