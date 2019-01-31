@@ -4,6 +4,7 @@
   "description": "A tool for helping me generate sql.",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/floh1695/SqlHelperJs/issues"
   },
-  "homepage": "https://github.com/floh1695/SqlHelperJs#readme"
+  "homepage": "https://github.com/floh1695/SqlHelperJs#readme",
+  "dependencies": {
+    "commander": "^2.19.0"
+  }
 }
